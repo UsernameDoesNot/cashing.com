@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.paypal.com	TRUE	/	FALSE	1999999999	enforce_policy	gdpr_v2.1
+.paypal.com	TRUE	/	FALSE	1999999999	cookie_check	yes
+.paypal.com	TRUE	/	FALSE	1999999999	LANG	en_GB%3BGB
+.paypal.com	TRUE	/	FALSE	1999999999	tsrce	mppnodeweb
+.paypal.com	TRUE	/	FALSE	1999999999	x-pp-s	eyJ0IjoiMTY1NjcyODAxNTUyMyIsImwiOiIwIiwibSI6IjAifQ
+www.paypal.com	TRUE	/	FALSE	1999999999	nsid	s%3AXQJENwIZ7QYTSp9RIpBL3Gvg8ILiKC4s.fWPzfVH9ShxNkCn6vZv%2Fc5JrmErdZvR6EgHrfU76J9Q
+paypal.com	TRUE	/	FALSE	1999999999	ts	vreXpYrS%3D1751422415%26vteXpYrS%3D1656729815%26vr%3Dbcaf51ad1810a788685f0b7cff5232ed%26vt%3Dbcaf51ad1810a788685f0b7cff5232ec%26vtyp%3Dnew
+paypal.com	TRUE	/	FALSE	1999999999	ts_c	vr%3Dbcaf51ad1810a788685f0b7cff5232ed%26vt%3Dbcaf51ad1810a788685f0b7cff5232ec
+
